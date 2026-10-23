@@ -3,7 +3,7 @@
 
 Repositorio central de referencias bibliográficas, normativas y literatura técnica para la evaluación estática y dinámica de software.
 
-**Autorres**
+**Autores**
 * Chimarro Bermeo Marlon Xavier,
 * De La Cruz Cañar Kevin Santiago,
 * Rios Condoy Marco David,
